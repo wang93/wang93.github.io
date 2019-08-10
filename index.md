@@ -89,7 +89,10 @@ batch during the training phase.<br>
 - Honorable Mention, Interdisciplinary Contest in Modeling, 2014<br>
 
 ## Photos
-<table border="1">
-    <tr><td><img src="/photos/1.jpg"></td><img src="/photos/3.gif"><td><img src="/photos/4.jpg"></tr>
-    <tr><td><img src="/photos/5.jpg"></td><img src="/photos/6.jpg"><td><img src="/photos/8.jpg"></tr>
-</table>
+<img src="/photos/1.jpg">
+<img src="/photos/3.gif">
+<img src="/photos/4.jpg">
+<img src="/photos/5.jpg">
+<img src="/photos/6.jpg">
+<img src="/photos/8.jpg">
+

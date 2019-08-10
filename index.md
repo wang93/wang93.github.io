@@ -96,7 +96,6 @@ batch during the training phase.<br>
 ## Photos
 <img src="/photos/8.jpg">
 <img src="/photos/6.jpg">
-<img src="/photos/5.jpg">
 <img src="/photos/4.jpg">
 <img src="/photos/3.gif">
 <img src="/photos/1.jpg">

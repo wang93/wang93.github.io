@@ -85,7 +85,6 @@ batch during the training phase.<br>
 ## Contact
 
 - Phone: +86 15902779856<br>
-
 - E-Mail: wyc[at]whu[dot]edu[dot]cn
 
 ## Social Media

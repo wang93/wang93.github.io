@@ -1,7 +1,9 @@
 # Nice to meet you !
 
+
 <table border="1">
-    <tr><td><img src="/photos/1.jpg"></td><td></td><td></td></tr>
+    <tr><td><img src="/photos/1.jpg"></td><img src="/photos/3.gif"><td><img src="/photos/4.jpg"></td><td></tr>
+    <tr><td><img src="/photos/5.jpg"></td><img src="/photos/6.jpg"><td><img src="/photos/8.jpg"></td><td></tr>
 </table>
 
 ## Contact

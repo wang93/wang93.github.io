@@ -1,7 +1,6 @@
 ### Contact
 
-Phone: +86 15902779856
-
+Phone: +86 15902779856<br>
 E-Mail: wyc[at]whu[dot]edu[dot]cn
 
 ### Markdown

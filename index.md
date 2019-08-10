@@ -67,16 +67,16 @@ batch during the training phase.<br>
     
 ## Work Experience
 - Hefei R&D Center of Deep Glint, 2018.11 – 2019.02<br>
-    Position： Algorithm Engineer<br>
-    Job Duty: developing neural architecture search method<br>
+    -Position： Algorithm Engineer<br>
+    -Job Duty: developing neural architecture search method<br>
     
 - CDG of Tencent, 2018.08 – 2018.10<br>
-    Position: Research Assistant<br>
-    Job Duty: developing cattle recognition model<br>
+    -Position: Research Assistant<br>
+    -Job Duty: developing cattle recognition model<br>
   
 - Mathematical Modeling Association of HZAU, 2011.10 – 2014.10<br>
-    Position: successively as Officer, Minister, Vice-president and President<br>
-    Job Duty: supporting/organizing courses and competitions in mathematical modeling<br>
+    -Position: successively as Officer, Minister, Vice-president and President<br>
+    -Job Duty: supporting/organizing courses and competitions in mathematical modeling<br>
   
 ## Selected Awards and Honors
 - Outstanding Graduate of Wuhan University, 2018<br>

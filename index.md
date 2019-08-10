@@ -1,15 +1,20 @@
-### Contact
+# Contact
 
 Phone: +86 15902779856<br>
 E-Mail: wyc[at]whu[dot]edu[dot]cn
 
-### Research Experience and Interests
+# Research Experience and Interests
 
 I have extensive research experience in person re-id. In addition, I have conducted some surveys, demos or preliminary
 experiments in face recognition, few-shot learning, CNNs compression and neural architecture search.<br>
 My research interests include person re-id, few-shot learning, neural architecture search and mechanism analysis of
 CNNs.
 
+# Education
+- School of Remote Sensing and Information Engineering, Wuhan University, China      2015.09 – 2018.07
+  Master of Engineering in Pattern Recognition and Intelligent Systems
+  Supervisor: Zhenzhong Chen
+  Thesis: Person Re-identification based on Convolutional Neural Networks (paper)
 
 Syntax highlighted code block
 

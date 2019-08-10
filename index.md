@@ -81,7 +81,7 @@ batch during the training phase.<br>
 ## Selected Awards and Honors
 - Outstanding Graduate of Wuhan University, 2018<br>
 - Wang Zhizhuo Innovation Talent Award, 2017<br>
-- Bronze Award in the Face Recognition Task, the 1st Public Opinion Analysis Technology Invitational, 2016<br>
+- Bronze Award in Face Recognition Task, the 1st Public Opinion Analysis Technology Invitational, 2016<br>
 - Second Prize, the 13th ‘Huawei Cup’ National Postgraduate Mathematic Contest in Modeling, 2016<br>
 - Title of 'Data Geek' in the Weibo Interactive Forecast Task, Tianchi Big Data Competition, 2015<br>
 - Outstanding Graduate of Huazhong Agricultural University, 2015<br>
@@ -89,10 +89,10 @@ batch during the training phase.<br>
 - Honorable Mention, Interdisciplinary Contest in Modeling, 2014<br>
 
 ## Photos
-<img src="/photos/1.jpg">
-<img src="/photos/3.gif">
-<img src="/photos/4.jpg">
-<img src="/photos/5.jpg">
-<img src="/photos/6.jpg">
 <img src="/photos/8.jpg">
+<img src="/photos/6.jpg">
+<img src="/photos/5.jpg">
+<img src="/photos/4.jpg">
+<img src="/photos/3.gif">
+<img src="/photos/1.jpg">
 

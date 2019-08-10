@@ -3,9 +3,12 @@
 Phone: +86 15902779856<br>
 E-Mail: wyc[at]whu[dot]edu[dot]cn
 
-### Markdown
+### Research Experience and Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have extensive research experience in person re-id. In addition, I have conducted some surveys, demos or preliminary
+experiments in face recognition, few-shot learning, CNNs compression and neural architecture search.<br>
+My research interests include person re-id, few-shot learning, neural architecture search and mechanism analysis of
+CNNs.
 
 ```markdown
 Syntax highlighted code block

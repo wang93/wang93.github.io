@@ -1,3 +1,5 @@
+# Resume of Yicheng Wang
+
 ## Contact
 
 Phone: +86 15902779856<br>
@@ -14,35 +16,35 @@ CNNs.
 
 ## Education
 - School of Remote Sensing and Information Engineering, Wuhan University, China<br>
-  2015.09 – 2018.07<br>
-  Master of Engineering in Pattern Recognition and Intelligent Systems<br>
-  Supervisor: Zhenzhong Chen<br>
-  Thesis: Person Re-identification based on Convolutional Neural Networks ([paper](https://www.researchgate.net/publication/329023990_Person_Re-identification_based_on_Convolutional_Neural_Networks?_sg=started_experiment_milestone))<br>
+    2015.09 – 2018.07<br>
+    Master of Engineering in Pattern Recognition and Intelligent Systems<br>
+    Supervisor: Zhenzhong Chen<br>
+    Thesis: Person Re-identification based on Convolutional Neural Networks ([paper](https://www.researchgate.net/publication/329023990_Person_Re-identification_based_on_Convolutional_Neural_Networks?_sg=started_experiment_milestone))<br>
   
 - College of Resources and Environment, Huazhong Agricultural University, China<br>
-  2011.09 – 2015.07<br>
-  Bachelor of Science in Geographical Information System<br>
-  GPA 3.46, Rank 4/98<br>
-  Thesis: Prediction of Soil Heavy Metal Copper’s Content based on Co-Kriging Interpolation ([paper](https://wenku.baidu.com/view/05c0308eb52acfc789ebc993?fr=prin))<br>
+    2011.09 – 2015.07<br>
+    Bachelor of Science in Geographical Information System<br>
+    GPA 3.46, Rank 4/98<br>
+    Thesis: Predict Content of Copper in Surface Soil by Co-Kriging Interpolation ([paper](https://wenku.baidu.com/view/05c0308eb52acfc789ebc993?fr=prin))<br>
   
 ## Publication
 - Person Re-identification with Cascaded Pairwise Convolutions. Yicheng Wang, Zhenzhong Chen, Feng Wu, Gang
 Wang. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018. ([paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Wang_Person_Re-Identification_With_CVPR_2018_paper.html), [poster](https://www.researchgate.net/publication/329024091_The_poster_for_'Person_Re-identification_with_Cascaded_Pairwise_Convolutions'?_sg=started_experiment_milestone), [details](https://www.researchgate.net/publication/330274953_Implementation_details_about_weight_initialization_and_merging_the_convs_in_a_WConv_layer))<br>
-  _BraidNet_ for comparing two person images with the theory of asymmetrical pattern matching.<br>
-  _Channel Scaling layer_ to alleviate zero-gradient problem during the training phase.<br>
-  _Sample Rate Learning strategy_ to adaptively adjust the proportions of positive samples and negative samples in each
+    _BraidNet_ for comparing two person images with the theory of asymmetrical pattern matching.<br>
+    _Channel Scaling layer_ to alleviate zero-gradient problem during the training phase.<br>
+    _Sample Rate Learning strategy_ to adaptively adjust the proportions of positive samples and negative samples in each
 batch during the training phase.<br>
 
 ## Research Programs
 - Mechanism and Method of Human-like Perception with Multichannel Contextual Information<br>
-  2017.10-2021.09<br>
-  National Key R&D Program of China, NO.2017YFB1002202<br>
-  Role: One of the authors of the research proposal<br>
+    2017.10-2021.09<br>
+    National Key R&D Program of China, NO.2017YFB1002202<br>
+    Role: One of the authors of the research proposal<br>
   
 - A Querier of Efficient Bus Transfer Plans based on the Prediction of Bus Arrival Time<br>
-  2013.02-2014.05<br>
-  University Student Research Fund of HZAU, NO.2013300<br>
-  Role: Student team leader<br>
+    2013.02-2014.05<br>
+    University Student Research Fund of HZAU, NO.2013300<br>
+    Role: Student team leader<br>
 
 ## Skills and Abilities
 - Programming Languages: Python, MATLAB.
@@ -63,26 +65,28 @@ batch during the training phase.<br>
     Automatically parse the text of personal class schedule copied from educational administration system.<br>
     Support ‘query in query result’.<br>
     
+## Work Experience
+- Hefei R&D Center of Deep Glint, 2018.11 – 2019.02<br>
+    Position： Algorithm Engineer<br>
+    Job Duty: developing neural architecture search method<br>
     
-Work Experience
-• Hefei R&D Center of Deep Glint 2018.11 – 2019.02
-- Position： Algorithm Engineer
-- Work Content: developing neural architecture search method
-• CDG of Tencent 2018.08 – 2018.10
-- Position: Research Assistant
-- Work Content: developing cattle recognition model
-• Mathematical Modeling Association of HZAU 2011.10 – 2014.10
-- Position: successively as Officer, Minister, Vice-president and President
-- Work Content: supporting/organizing courses and competitions in mathematical modeling
-Selected Awards and Honors
-• Outstanding Graduate of Wuhan University 2018
-• Wang Zhizhuo Innovation Talent Award 2017
-• Bronze Award in the Face Recognition Task, the 1st Public Opinion Analysis Technology Invitational 2016
-• Second Prize, the 13th ‘Huawei Cup’ National Postgraduate Mathematic Contest in Modeling 2016
-• Title of 'Data Geek' in the Weibo Interactive Forecast Task, Tianchi Big Data Competition 2015
-• Outstanding Graduate of Huazhong Agricultural University 2015
-• First Prize, the 7th Undergraduate Mathematical Modeling Invitational in Central China (paper) 2014
-• Honorable Mention, Interdisciplinary Contest in Modeling 2014
+- CDG of Tencent, 2018.08 – 2018.10<br>
+  Position: Research Assistant<br>
+  Work Content: developing cattle recognition model<br>
+  
+- Mathematical Modeling Association of HZAU, 2011.10 – 2014.10<br>
+  Position: successively as Officer, Minister, Vice-president and President<br>
+  Work Content: supporting/organizing courses and competitions in mathematical modeling<br>
+  
+## Selected Awards and Honors
+- Outstanding Graduate of Wuhan University, 2018<br>
+- Wang Zhizhuo Innovation Talent Award, 2017<br>
+- Bronze Award in the Face Recognition Task, the 1st Public Opinion Analysis Technology Invitational, 2016<br>
+- Second Prize, the 13th ‘Huawei Cup’ National Postgraduate Mathematic Contest in Modeling, 2016<br>
+- Title of 'Data Geek' in the Weibo Interactive Forecast Task, Tianchi Big Data Competition, 2015<br>
+- Outstanding Graduate of Huazhong Agricultural University, 2015<br>
+- First Prize, the 7th Undergraduate Mathematical Modeling Invitational in Central China (paper), 2014<br>
+- Honorable Mention, Interdisciplinary Contest in Modeling, 2014<br>
 
 
 Syntax highlighted code block

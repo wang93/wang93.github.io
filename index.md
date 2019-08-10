@@ -1,4 +1,4 @@
-# Resume of Yicheng Wang
+# Nice to meet you!
 
 ## Contact
 

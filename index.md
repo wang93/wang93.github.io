@@ -22,7 +22,7 @@ CNNs.
     -Thesis: Person Re-identification based on Convolutional Neural Networks ([paper](https://www.researchgate.net/publication/329023990_Person_Re-identification_based_on_Convolutional_Neural_Networks?_sg=started_experiment_milestone))<br>
   
 - College of Resources and Environment, Huazhong Agricultural University, China<br>
-    2011.09 – 2015.07<br>
+    -2011.09 – 2015.07<br>
     -Bachelor of Science in Geographical Information System<br>
     -GPA 3.46, Rank 4/98<br>
     -Thesis: Predict Content of Copper in Surface Soil by Co-Kriging Interpolation ([paper](https://wenku.baidu.com/view/05c0308eb52acfc789ebc993?fr=prin))<br>

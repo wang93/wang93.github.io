@@ -1,11 +1,5 @@
 # Nice to meet you !
 
-## Contact
-
-- Phone: +86 15902779856<br>
-
-- E-Mail: wyc[at]whu[dot]edu[dot]cn
-
 ## Research Experience and Interests
 
 I have extensive research experience in person re-id. In addition, I have conducted some surveys, demos or preliminary
@@ -87,6 +81,18 @@ batch during the training phase.<br>
 - Outstanding Graduate of Huazhong Agricultural University, 2015<br>
 - First Prize, the 7th Undergraduate Mathematical Modeling Invitational in Central China ([paper](https://wenku.baidu.com/view/21bf7a7e0066f5335a8121bd)), 2014<br>
 - Honorable Mention, Interdisciplinary Contest in Modeling, 2014<br>
+
+## Contact
+
+- Phone: +86 15902779856<br>
+
+- E-Mail: wyc[at]whu[dot]edu[dot]cn
+
+## Social Media
+
+- [ResearchGate](https://www.researchgate.net/profile/Yicheng_Wang34)
+- [Zhihu](https://www.zhihu.com/people/wyic/activities)
+
 
 ## Photos
 <img src="/photos/8.jpg">

@@ -2,9 +2,9 @@
 
 ## Contact
 
-Phone: +86 15902779856<br>
+- Phone: +86 15902779856<br>
 
-E-Mail: wyc[at]whu[dot]edu[dot]cn
+- E-Mail: wyc[at]whu[dot]edu[dot]cn
 
 ## Research Experience and Interests
 

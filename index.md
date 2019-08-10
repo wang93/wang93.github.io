@@ -1,10 +1,10 @@
-# Contact
+## Contact
 
 Phone: +86 15902779856<br>
 
 E-Mail: wyc[at]whu[dot]edu[dot]cn
 
-# Research Experience and Interests
+## Research Experience and Interests
 
 I have extensive research experience in person re-id. In addition, I have conducted some surveys, demos or preliminary
 experiments in face recognition, few-shot learning, CNNs compression and neural architecture search.<br>
@@ -12,7 +12,7 @@ experiments in face recognition, few-shot learning, CNNs compression and neural 
 My research interests include person re-id, few-shot learning, neural architecture search and mechanism analysis of
 CNNs.
 
-# Education
+## Education
 - School of Remote Sensing and Information Engineering, Wuhan University, China<br>
   2015.09 – 2018.07<br>
   Master of Engineering in Pattern Recognition and Intelligent Systems<br>

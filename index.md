@@ -28,10 +28,22 @@ CNNs.
 ## Publication
 - Person Re-identification with Cascaded Pairwise Convolutions. Yicheng Wang, Zhenzhong Chen, Feng Wu, Gang
 Wang. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018. ([paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Wang_Person_Re-Identification_With_CVPR_2018_paper.html), [poster](https://www.researchgate.net/publication/329024091_The_poster_for_'Person_Re-identification_with_Cascaded_Pairwise_Convolutions'?_sg=started_experiment_milestone), [details](https://www.researchgate.net/publication/330274953_Implementation_details_about_weight_initialization_and_merging_the_convs_in_a_WConv_layer))<br>
-  BraidNet for comparing two person images with the theory of asymmetrical pattern matching.<br>
-  Channel Scaling layer to alleviate zero-gradient problem during the training phase.<br>
-  Sample Rate Learning strategy to adaptively adjust the proportions of positive samples and negative samples in each
+  _BraidNet_ for comparing two person images with the theory of asymmetrical pattern matching.<br>
+  _Channel Scaling layer_ to alleviate zero-gradient problem during the training phase.<br>
+  _Sample Rate Learning strategy_ to adaptively adjust the proportions of positive samples and negative samples in each
 batch during the training phase.<br>
+
+## Research Programs
+- Mechanism and Method of Human-like Perception with Multichannel Contextual Information<br>
+  2017.10-2021.09<br>
+  National Key R&D Program of China, NO.2017YFB1002202<br>
+  Role: One of the authors of the research proposal<br>
+  
+- A Querier of Efficient Bus Transfer Plans based on the Prediction of Bus Arrival Time<br>
+  2013.02-2014.05<br>
+  University Student Research Fund of HZAU, NO.2013300<br>
+  Role: Student team leader<br>
+
 
 Syntax highlighted code block
 

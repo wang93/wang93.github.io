@@ -44,6 +44,46 @@ batch during the training phase.<br>
   University Student Research Fund of HZAU, NO.2013300<br>
   Role: Student team leader<br>
 
+## Skills and Abilities
+- Programming Languages: Python, MATLAB.
+- Deep Learning Frameworks: PyTorch, MatConvNet, Caffe.
+- Others: LaTex, Linux, ArcGIS, etc.
+
+## Demos & Softwares
+- A Fast Matlab GUI for Kriging Interpolation (link) 2014.06<br>
+    An interactive interface for the whole pipeline of Kriging interpolation.<br>
+    Fit empirical semi-variogram by ant colony optimization algorithm.<br>
+    Speed up the interpolation process by spatial index and computational result reuse.<br>
+    
+- A Simple Expert System based on Production Rules (link) 2013.12<br>
+    Given known facts, return the derived conclusions, by applying production rules upon the knowledge base.<br>
+    
+- A Querier of Students’ Spare Time (link) 2012.12<br>
+    Given a specific period of time, return the names of students who have no class at that time.<br>
+    Automatically parse the text of personal class schedule copied from educational administration system.<br>
+    Support ‘query in query result’.<br>
+    
+    
+Work Experience
+• Hefei R&D Center of Deep Glint 2018.11 – 2019.02
+- Position： Algorithm Engineer
+- Work Content: developing neural architecture search method
+• CDG of Tencent 2018.08 – 2018.10
+- Position: Research Assistant
+- Work Content: developing cattle recognition model
+• Mathematical Modeling Association of HZAU 2011.10 – 2014.10
+- Position: successively as Officer, Minister, Vice-president and President
+- Work Content: supporting/organizing courses and competitions in mathematical modeling
+Selected Awards and Honors
+• Outstanding Graduate of Wuhan University 2018
+• Wang Zhizhuo Innovation Talent Award 2017
+• Bronze Award in the Face Recognition Task, the 1st Public Opinion Analysis Technology Invitational 2016
+• Second Prize, the 13th ‘Huawei Cup’ National Postgraduate Mathematic Contest in Modeling 2016
+• Title of 'Data Geek' in the Weibo Interactive Forecast Task, Tianchi Big Data Competition 2015
+• Outstanding Graduate of Huazhong Agricultural University 2015
+• First Prize, the 7th Undergraduate Mathematical Modeling Invitational in Central China (paper) 2014
+• Honorable Mention, Interdisciplinary Contest in Modeling 2014
+
 
 Syntax highlighted code block
 

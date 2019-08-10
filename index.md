@@ -17,7 +17,13 @@ CNNs.
   2015.09 – 2018.07<br>
   Master of Engineering in Pattern Recognition and Intelligent Systems<br>
   Supervisor: Zhenzhong Chen<br>
-  Thesis: Person Re-identification based on Convolutional Neural Networks (paper)
+  Thesis: Person Re-identification based on Convolutional Neural Networks (paper)<br>
+  
+- College of Resources and Environment, Huazhong Agricultural University, China<br>
+  2011.09 – 2015.07<br>
+  Bachelor of Science in Geographical Information System<br>
+  GPA 3.46, Rank 4/98<br>
+  Thesis: Prediction of Soil Heavy Metal Copper’s Content based on Co-Kriging Interpolation (paper)<br>
 
 Syntax highlighted code block
 

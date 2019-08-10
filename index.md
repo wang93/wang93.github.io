@@ -13,9 +13,10 @@ My research interests include person re-id, few-shot learning, neural architectu
 CNNs.
 
 # Education
-- School of Remote Sensing and Information Engineering, Wuhan University, China      2015.09 – 2018.07
-  Master of Engineering in Pattern Recognition and Intelligent Systems
-  Supervisor: Zhenzhong Chen
+- School of Remote Sensing and Information Engineering, Wuhan University, China<br>
+  2015.09 – 2018.07<br>
+  Master of Engineering in Pattern Recognition and Intelligent Systems<br>
+  Supervisor: Zhenzhong Chen<br>
   Thesis: Person Re-identification based on Convolutional Neural Networks (paper)
 
 Syntax highlighted code block

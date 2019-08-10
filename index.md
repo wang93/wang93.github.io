@@ -16,16 +16,16 @@ CNNs.
 
 ## Education
 - School of Remote Sensing and Information Engineering, Wuhan University, China<br>
-    2015.09 – 2018.07<br>
-    Master of Engineering in Pattern Recognition and Intelligent Systems<br>
-    Supervisor: Zhenzhong Chen<br>
-    Thesis: Person Re-identification based on Convolutional Neural Networks ([paper](https://www.researchgate.net/publication/329023990_Person_Re-identification_based_on_Convolutional_Neural_Networks?_sg=started_experiment_milestone))<br>
+    -2015.09 – 2018.07<br>
+    -Master of Engineering in Pattern Recognition and Intelligent Systems<br>
+    -Supervisor: Zhenzhong Chen<br>
+    -Thesis: Person Re-identification based on Convolutional Neural Networks ([paper](https://www.researchgate.net/publication/329023990_Person_Re-identification_based_on_Convolutional_Neural_Networks?_sg=started_experiment_milestone))<br>
   
 - College of Resources and Environment, Huazhong Agricultural University, China<br>
     2011.09 – 2015.07<br>
-    Bachelor of Science in Geographical Information System<br>
-    GPA 3.46, Rank 4/98<br>
-    Thesis: Predict Content of Copper in Surface Soil by Co-Kriging Interpolation ([paper](https://wenku.baidu.com/view/05c0308eb52acfc789ebc993?fr=prin))<br>
+    -Bachelor of Science in Geographical Information System<br>
+    -GPA 3.46, Rank 4/98<br>
+    -Thesis: Predict Content of Copper in Surface Soil by Co-Kriging Interpolation ([paper](https://wenku.baidu.com/view/05c0308eb52acfc789ebc993?fr=prin))<br>
   
 ## Publication
 - Person Re-identification with Cascaded Pairwise Convolutions. Yicheng Wang, Zhenzhong Chen, Feng Wu, Gang
@@ -38,13 +38,13 @@ batch during the training phase.<br>
 ## Research Programs
 - Mechanism and Method of Human-like Perception with Multichannel Contextual Information<br>
     2017.10-2021.09<br>
-    National Key R&D Program of China, NO.2017YFB1002202<br>
-    Role: One of the authors of the research proposal<br>
+    -National Key R&D Program of China, NO.2017YFB1002202<br>
+    -Role: One of the authors of the research proposal<br>
   
 - A Querier of Efficient Bus Transfer Plans based on the Prediction of Bus Arrival Time<br>
     2013.02-2014.05<br>
-    University Student Research Fund of HZAU, NO.2013300<br>
-    Role: Student team leader<br>
+    -University Student Research Fund of HZAU, NO.2013300<br>
+    -Role: Student team leader<br>
 
 ## Skills and Abilities
 - Programming Languages: Python, MATLAB.
@@ -53,17 +53,17 @@ batch during the training phase.<br>
 
 ## Demos & Softwares
 - A Fast Matlab GUI for Kriging Interpolation ([link](https://drive.google.com/drive/folders/1pXGoc3NADrTZd-xn8HCMbBR4E8Y1Y4RV)) 2014.06<br>
-    An interactive interface for the whole pipeline of Kriging interpolation.<br>
-    Fit empirical semi-variogram by ant colony optimization algorithm.<br>
-    Speed up the interpolation process by spatial index and computational result reuse.<br>
+    -An interactive interface for the whole pipeline of Kriging interpolation.<br>
+    -Fit empirical semi-variogram by ant colony optimization algorithm.<br>
+    -Speed up the interpolation process by spatial index and computational result reuse.<br>
     
 - A Simple Expert System based on Production Rules ([link](https://drive.google.com/drive/folders/1IICOCLWKCAEUOlNvDFOot_yAxC0lmqy8)) 2013.12<br>
-    Given known facts, return the derived conclusions, by applying production rules upon the knowledge base.<br>
+    -Given known facts, return the derived conclusions, by applying production rules upon the knowledge base.<br>
     
 - A Querier of Students’ Spare Time ([link](https://drive.google.com/drive/folders/1EvUnTWw1VXMlXFmB4ldjap33mve3sDYZ)) 2012.12<br>
-    Given a specific period of time, return the names of students who have no class at that time.<br>
-    Automatically parse the text of personal class schedule copied from educational administration system.<br>
-    Support ‘query in query result’.<br>
+    -Given a specific period of time, return the names of students who have no class at that time.<br>
+    -Automatically parse the text of personal class schedule copied from educational administration system.<br>
+    -Support ‘query in query result’.<br>
     
 ## Work Experience
 - Hefei R&D Center of Deep Glint, 2018.11 – 2019.02<br>

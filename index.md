@@ -1,11 +1,5 @@
 # Nice to meet you !
 
-
-<table border="1">
-    <tr><td><img src="/photos/1.jpg"></td><img src="/photos/3.gif"><td><img src="/photos/4.jpg"></td><td></tr>
-    <tr><td><img src="/photos/5.jpg"></td><img src="/photos/6.jpg"><td><img src="/photos/8.jpg"></td><td></tr>
-</table>
-
 ## Contact
 
 - Phone: +86 15902779856<br>
@@ -93,3 +87,9 @@ batch during the training phase.<br>
 - Outstanding Graduate of Huazhong Agricultural University, 2015<br>
 - First Prize, the 7th Undergraduate Mathematical Modeling Invitational in Central China ([paper](https://wenku.baidu.com/view/21bf7a7e0066f5335a8121bd)), 2014<br>
 - Honorable Mention, Interdisciplinary Contest in Modeling, 2014<br>
+
+## Photos
+<table border="1">
+    <tr><td><img src="/photos/1.jpg"></td><img src="/photos/3.gif"><td><img src="/photos/4.jpg"></td><td></tr>
+    <tr><td><img src="/photos/5.jpg"></td><img src="/photos/6.jpg"><td><img src="/photos/8.jpg"></td><td></tr>
+</table>

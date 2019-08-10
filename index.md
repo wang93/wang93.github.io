@@ -52,15 +52,15 @@ batch during the training phase.<br>
 - Others: LaTex, Linux, ArcGIS, etc.
 
 ## Demos & Softwares
-- A Fast Matlab GUI for Kriging Interpolation (link) 2014.06<br>
+- A Fast Matlab GUI for Kriging Interpolation ([link](https://drive.google.com/drive/folders/1pXGoc3NADrTZd-xn8HCMbBR4E8Y1Y4RV)) 2014.06<br>
     An interactive interface for the whole pipeline of Kriging interpolation.<br>
     Fit empirical semi-variogram by ant colony optimization algorithm.<br>
     Speed up the interpolation process by spatial index and computational result reuse.<br>
     
-- A Simple Expert System based on Production Rules (link) 2013.12<br>
+- A Simple Expert System based on Production Rules ([link](https://drive.google.com/drive/folders/1IICOCLWKCAEUOlNvDFOot_yAxC0lmqy8)) 2013.12<br>
     Given known facts, return the derived conclusions, by applying production rules upon the knowledge base.<br>
     
-- A Querier of Students’ Spare Time (link) 2012.12<br>
+- A Querier of Students’ Spare Time ([link](https://drive.google.com/drive/folders/1EvUnTWw1VXMlXFmB4ldjap33mve3sDYZ)) 2012.12<br>
     Given a specific period of time, return the names of students who have no class at that time.<br>
     Automatically parse the text of personal class schedule copied from educational administration system.<br>
     Support ‘query in query result’.<br>
@@ -71,12 +71,12 @@ batch during the training phase.<br>
     Job Duty: developing neural architecture search method<br>
     
 - CDG of Tencent, 2018.08 – 2018.10<br>
-  Position: Research Assistant<br>
-  Work Content: developing cattle recognition model<br>
+    Position: Research Assistant<br>
+    Job Duty: developing cattle recognition model<br>
   
 - Mathematical Modeling Association of HZAU, 2011.10 – 2014.10<br>
-  Position: successively as Officer, Minister, Vice-president and President<br>
-  Work Content: supporting/organizing courses and competitions in mathematical modeling<br>
+    Position: successively as Officer, Minister, Vice-president and President<br>
+    Job Duty: supporting/organizing courses and competitions in mathematical modeling<br>
   
 ## Selected Awards and Honors
 - Outstanding Graduate of Wuhan University, 2018<br>
@@ -85,7 +85,7 @@ batch during the training phase.<br>
 - Second Prize, the 13th ‘Huawei Cup’ National Postgraduate Mathematic Contest in Modeling, 2016<br>
 - Title of 'Data Geek' in the Weibo Interactive Forecast Task, Tianchi Big Data Competition, 2015<br>
 - Outstanding Graduate of Huazhong Agricultural University, 2015<br>
-- First Prize, the 7th Undergraduate Mathematical Modeling Invitational in Central China (paper), 2014<br>
+- First Prize, the 7th Undergraduate Mathematical Modeling Invitational in Central China ([paper](https://wenku.baidu.com/view/21bf7a7e0066f5335a8121bd)), 2014<br>
 - Honorable Mention, Interdisciplinary Contest in Modeling, 2014<br>
 
 

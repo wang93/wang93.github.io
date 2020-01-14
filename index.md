@@ -76,7 +76,7 @@ batch during the training phase.<br>
 - Outstanding Graduate of Wuhan University, 2018<br>
 - Wang Zhizhuo Innovation Talent Award, 2017<br>
 - Bronze Award in Face Recognition Task, the 1st Public Opinion Analysis Technology Invitational, 2016<br>
-- Second Prize, the 13th ‘Huawei Cup’ National Postgraduate Mathematic Contest in Modeling, 2016<br>
+- Second Prize, the 13rd ‘Huawei Cup’ National Postgraduate Mathematic Contest in Modeling, 2016<br>
 - Title of 'Data Geek' in the Weibo Interactive Forecast Task, Tianchi Big Data Competition, 2015<br>
 - Outstanding Graduate of Huazhong Agricultural University, 2015<br>
 - First Prize, the 7th Undergraduate Mathematical Modeling Invitational in Central China ([paper](https://wenku.baidu.com/view/21bf7a7e0066f5335a8121bd)), 2014<br>

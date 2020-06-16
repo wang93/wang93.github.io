@@ -60,17 +60,17 @@ batch during the training phase.<br>
     -Support ‘query in query result’.<br>
     
 ## Work Experience
+- CUHKSZ Computer Vision Lab
+    -Position: Research Assistant (Intern)
+
 - Hefei R&D Center of Deep Glint, 2018.11 – 2019.02<br>
     -Position： Algorithm Engineer<br>
-    -Duty: developing neural architecture search method<br>
     
 - CDG of Tencent, 2018.08 – 2018.10<br>
     -Position: Research Assistant<br>
-    -Duty: developing cattle recognition model<br>
   
 - Mathematical Modeling Association of HZAU, 2011.10 – 2014.10<br>
     -Position: successively as Officer, Minister, Vice-president and President<br>
-    -Duty: supporting/organizing courses and competitions in mathematical modeling<br>
   
 ## Selected Awards and Honors
 - Outstanding Graduate of Wuhan University, 2018<br>

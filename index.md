@@ -60,8 +60,8 @@ batch during the training phase.<br>
     -Support ‘query in query result’.<br>
     
 ## Work Experience
-- CUHKSZ Computer Vision Lab
-    -Position: Research Assistant (Intern)
+- CUHKSZ Computer Vision Lab, 2020.03 – 2020.06<br>
+    -Position: Research Assistant (Intern)<br>
 
 - Hefei R&D Center of Deep Glint, 2018.11 – 2019.02<br>
     -Position： Algorithm Engineer<br>

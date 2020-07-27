@@ -1,5 +1,5 @@
 # Nice to meet you !
-
+<!--
 ## Research Experience and Interests
 
 I have extensive research experience in person re-id. In addition, I have conducted some surveys, demos or preliminary
@@ -7,7 +7,7 @@ experiments in face recognition, few-shot learning, CNNs compression and neural 
 
 My research interests include person re-id, few-shot learning, neural architecture search and mechanism analysis of
 CNNs.
-
+-->
 ## Education
 - School of Remote Sensing and Information Engineering, Wuhan University, China<br>
     -2015.09 – 2018.07<br>
@@ -60,8 +60,8 @@ batch during the training phase.<br>
     -Support ‘query in query result’.<br>
     
 ## Work Experience
-- CUHKSZ Computer Vision Lab, 2020.03 – 2020.06<br>
-    -Position: Research Assistant (Intern)<br>
+<!-- - CUHKSZ Computer Vision Lab, 2020.03 – 2020.06<br>
+    -Position: Research Assistant (Intern)<br>-->
 
 - Hefei R&D Center of Deep Glint, 2018.11 – 2019.02<br>
     -Position： Algorithm Engineer<br>

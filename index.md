@@ -82,16 +82,6 @@ batch during the training phase.<br>
 - First Prize, the 7th Undergraduate Mathematical Modeling Invitational in Central China ([paper](https://wenku.baidu.com/view/21bf7a7e0066f5335a8121bd)), 2014<br>
 - Honorable Mention, Interdisciplinary Contest in Modeling, 2014<br>
 
-## Contact
-
-- Phone: +86 15902779856<br>
-- E-mail: wyc[at]whu[dot]edu[dot]cn
-
-## Social Media
-
-- [ResearchGate](https://www.researchgate.net/profile/Yicheng_Wang34)
-- [Zhihu](https://www.zhihu.com/people/wyic/activities)
-
 
 ## Photo
 <img src="/photos/3.gif">
